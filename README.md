@@ -9,7 +9,7 @@ to try if the code works. As it was not requested, the code does not check if th
 given values are in a correct way. So it automatically assumes that they're right, and will break if they are not.
 
 
-##Starting the code
+## Starting the code
 - Open the API.py file in IDE of your choosing (PyCharm, etc...)
 - Install the flask  library by putting the following line into your console:   
  **$ pip install -U Flask**  
