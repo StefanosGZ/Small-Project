@@ -25,4 +25,10 @@ Your task is to build an HTTP API which could be used for calculating the delive
 
 
 Specification  
-Implement an HTTP API (single endpoint) which calculates the delivery fee based on the information in the request payload (JSON) and includes the calculated delivery fee in the response payload (JSON).  
+Implement an HTTP API (single endpoint) which calculates the delivery fee based on the information in the request payload (JSON) and includes the calculated delivery fee in the response payload (JSON).    
+
+You'll receive a JSON request in this form:  
+{"cart_value": 790, "delivery_distance": 2235, "number_of_items": 4, "time": "2021-10-12T13:00:00Z"}  
+And you have to give a JSON response in the form of:  
+{"delivery_fee": 710}
+
