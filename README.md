@@ -1,4 +1,4 @@
-# Small-Project
+# Wolt API
 **Stefanos Zafiris**
   
 This is a small project assignment given by Wolt for their summer internships. The code is made in Python 
